@@ -1,4 +1,4 @@
-# OIBSIS TASK 2
+# OIBSIS TASK 2: Tribute Page
 Created a Tribute Page using HTML and CSS.
 # Preview
 ![image](https://user-images.githubusercontent.com/114283335/221425731-ae2dfb68-2d73-4f26-8d8c-eea59d501cf1.png)
